@@ -16,4 +16,4 @@ Inspect each table given in the subsequent tabs and understand the features asso
 Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
 If you don't wish to perform the data loading part, you can directly download the SQL script file containing all the commands and data required for the database creation and start directly with the querying.
 
-ERD
+
